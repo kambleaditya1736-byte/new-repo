@@ -21,3 +21,5 @@ total_bill = electricity_spend * charge_per_unit
 output = (food + rent + total_bill) // persons
 
 print("Each person will pay = ", output)
+
+#this is project is succsesfully runn it...
